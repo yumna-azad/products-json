@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lamp Bed",
+      "price": "Rs 2600.00",
+      "description": "A beautifully designed lamp for night-time.",
+      "imageRes": "product1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bollard Lamp",
+      "price": "$14000.00",
+      "description": "A high-end luxury lamp designed to elevate the ambiance of your home.",
+      "imageRes": "product2.jpg"
+    }
+  ]
+}
