@@ -5,14 +5,104 @@
       "name": "Lamp Bed",
       "price": "Rs 2600.00",
       "description": "A beautifully designed lamp for night-time.",
-      "imageRes": "product1.jpg"
+      "imageRes": "product1.jpg",
+      "material": "Metal",
+      "dimensions": "12 inches x 10 inches x 20 inches",
+      "color": "Black",
+      "features": ["Adjustable height", "Dimmable light", "Modern design"],
+      "ratings": [{"rating": 5}, {"rating": 4}, {"rating": 5}],
+      "isFavorite": true
     },
     {
       "id": 2,
       "name": "Bollard Lamp",
-      "price": "$14000.00",
+      "price": "Rs 14000.00",
       "description": "A high-end luxury lamp designed to elevate the ambiance of your home.",
-      "imageRes": "product2.jpg"
+      "imageRes": "product2.jpg",
+      "material": "Brass",
+      "dimensions": "16 inches x 12 inches x 26 inches",
+      "color": "Gold",
+      "features": ["Luxury finish", "Energy-efficient lighting"],
+      "ratings": [{"rating": 5}, {"rating": 5}],
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Bobber Table Lamp",
+      "price": "Rs 6296.00",
+      "description": "A sleek and modern table lamp.",
+      "imageRes": "product3.jpg",
+      "material": "Metal and Glass",
+      "dimensions": "15 inches x 15 inches x 22 inches",
+      "color": "White",
+      "features": ["Energy-efficient LED", "Adjustable brightness"],
+      "ratings": [{"rating": 5}, {"rating": 5}, {"rating": 4}],
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Arne Dining Chair",
+      "price": "Rs 4000.00",
+      "description": "A modern and comfortable dining chair.",
+      "imageRes": "product4.jpg",
+      "material": "Wood and Fabric",
+      "dimensions": "18 inches x 20 inches x 35 inches",
+      "color": "Gray",
+      "features": ["Ergonomic design", "High-quality fabric", "Durable"],
+      "ratings": [{"rating": 4}, {"rating": 5}],
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Modern Bedroom Storage",
+      "price": "Rs 10,000.00",
+      "description": "Stylish and functional bedroom storage.",
+      "imageRes": "product5.jpg",
+      "material": "Wood",
+      "dimensions": "24 inches x 20 inches x 30 inches",
+      "color": "Oak",
+      "features": ["Spacious storage", "Contemporary design"],
+      "ratings": [{"rating": 4}, {"rating": 5}],
+      "isFavorite": true
+    },
+    {
+      "id": 6,
+      "name": "Elegant Coffee Table",
+      "price": "Rs 5500.00",
+      "description": "An elegant coffee table that complements modern living rooms.",
+      "imageRes": "product6.jpg",
+      "material": "Glass and Metal",
+      "dimensions": "48 inches x 24 inches x 18 inches",
+      "color": "Chrome",
+      "features": ["Tempered glass top", "Metal frame", "Easy to clean"],
+      "ratings": [{"rating": 4}, {"rating": 4}, {"rating": 5}],
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Luxurious Bed Frame",
+      "price": "Rs 15000.00",
+      "description": "A luxurious bed frame designed for maximum comfort and style.",
+      "imageRes": "product7.jpg",
+      "material": "Leather and Wood",
+      "dimensions": "80 inches x 60 inches x 40 inches",
+      "color": "Brown",
+      "features": ["High-quality leather", "Sturdy wooden frame", "Elegant design"],
+      "ratings": [{"rating": 5}, {"rating": 5}, {"rating": 5}],
+      "isFavorite": true
+    },
+    {
+      "id": 8,
+      "name": "Sleek Office Desk",
+      "price": "Rs 8000.00",
+      "description": "A sleek office desk with ample workspace and modern design.",
+      "imageRes": "product8.jpg",
+      "material": "Wood and Metal",
+      "dimensions": "60 inches x 30 inches x 30 inches",
+      "color": "Black",
+      "features": ["Spacious top surface", "Built-in cable management", "Sturdy metal legs"],
+      "ratings": [{"rating": 4}, {"rating": 4}, {"rating": 4}],
+      "isFavorite": false
     }
   ]
 }
